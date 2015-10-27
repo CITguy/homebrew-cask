@@ -2,7 +2,7 @@ class SeleniumServerStandalone2471 < Formula
   desc "Automated Browser Control (2.47.1)"
   homepage "http://seleniumhq.org/"
   url "https://selenium-release.storage.googleapis.com/2.47/selenium-server-standalone-2.47.1.jar"
-  sha256 "84efe8684b4b738dec40f071178504a6f001ad7ab75df737a5c1faec3036fa7c"
+  sha256 "45665f3bb4dffb668981258faff91823db4a1f6250fd24fd6698ec159a4aeb8a"
 
   conflicts_with "selenium-server-standalone", :because => "Differing version of core formula"
 
