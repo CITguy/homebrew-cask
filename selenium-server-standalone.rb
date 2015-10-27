@@ -1,4 +1,4 @@
-class SeleniumServerStandalone2471 < Formula
+class SeleniumServerStandalone < Formula
   desc "Automated Browser Control (2.47.1)"
   homepage "http://seleniumhq.org/"
   url "https://selenium-release.storage.googleapis.com/2.47/selenium-server-standalone-2.47.1.jar"
